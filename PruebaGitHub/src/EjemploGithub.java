@@ -6,6 +6,7 @@ public class EjemploGithub {
         // indica cuantos números han sido iguales
 
         //COMENTARIO DE PRUEBA
+        //nuevo comentario
 
         int[]array1=new int[20];
         int[]array2=new int[20];
