@@ -5,6 +5,8 @@ public class EjemploGithub {
         // son iguales (mismo número en la misma posición). Tras hacer la comprobación
         // indica cuantos números han sido iguales
 
+        //COMENTARIO DE PRUEBA
+
         int[]array1=new int[20];
         int[]array2=new int[20];
         int contador=0;
@@ -37,4 +39,4 @@ public class EjemploGithub {
     }
 }
 
-    
+
